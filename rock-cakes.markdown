@@ -14,7 +14,8 @@ permalink: /rockcakes/
 [comment]: # ([jekyll][jekyll-organization] /)
 [comment]: # ([jekyll](https://github.com/jekyll/jekyll))
 
-Suscríbete al [boletín](http://eepurl.com/hBHwlX)
+![](https://cdn.pixabay.com/photo/2021/04/11/14/49/rock-cakes-6170005_960_720.jpg)
 
+Si quieres saber más sobre esas galletas de ahí arriba, suscríbete al [boletín](http://eepurl.com/hBHwlX)
 
 [jekyll-organization]: https://github.com/jekyll
