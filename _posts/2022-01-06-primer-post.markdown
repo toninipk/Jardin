@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Primer post"
-date:   3022-01-06 13:44:49 +0100
+date:   2022-01-06 13:44:49 +0100
 categories:
 ---
 Este es un post con apuntes sobre como `resaltar` palabras y otras cosas.
