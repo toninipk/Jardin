@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mis pantallas son naranjas por la noche"
+title:  "Mis pantallas son naranja por la noche"
 date:   2022-02-18 15:35:00 +0100
 categories:
 ---
