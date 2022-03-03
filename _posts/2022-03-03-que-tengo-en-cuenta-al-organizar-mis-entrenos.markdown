@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Qué tengo en cuanta al organizar mis entrenos"
+title:  "Qué tengo en cuenta al organizar mis entrenos"
 date:   2022-03-03 15:25:00 +0100
 categories:
 ---
