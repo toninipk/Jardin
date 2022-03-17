@@ -19,10 +19,10 @@ Como muchas personas que se creen especiales y diferentes, a mí no me gustaban 
 Para que te hagas una idea, te cuento algunas cosas que empecé a hacer:
 
 <ul>
-    <li><b>Sentarme en el suelo</b>. En realidad me fui al extremo y dejé de sentarme en sillas, sofás, asientos, butacas y cualquier cosa parecida. Como de costumbre, me volví más laxo con el tiempo y he ido encontrando mi equilibrio</li>
-    <li><b>Entrenar por mi cuenta</b>. Mayormente en la calle, pero  últimamente más en casa. Y puedo presumir (cruzaremos los dedos) de no haber sufrido lesiones en más de 6 años. Sin formación reglada ni títulos oficiales (perdón por ser tan humilde).</li>
-    <li><b>Eliminar el azúcar refinado</b>. La misma historia, empecé a saco, nada de azúcar. Y con el tiempo he ido encontrando el equilibrio (que varía según la época).</li>
-    <li><b>Ducharme con agua fría</b>. Sea la  época del año que sea (con 2 o 3 excepciones anuales).</li>
+    <li>Sentarme en el suelo. En realidad me fui al extremo y dejé de sentarme en sillas, sofás, asientos, butacas y cualquier cosa parecida. Como de costumbre, me volví más laxo con el tiempo y he ido encontrando mi equilibrio</li>
+    <li>Entrenar por mi cuenta. Mayormente en la calle, pero  últimamente más en casa. Y puedo presumir (cruzaremos los dedos) de no haber sufrido lesiones en más de 6 años. Sin formación reglada ni títulos oficiales (perdón por ser tan humilde).</li>
+    <li>Eliminar el azúcar refinado. La misma historia, empecé a saco, nada de azúcar. Y con el tiempo he ido encontrando el equilibrio (que varía según la época).</li>
+    <li>Ducharme con agua fría. Sea la  época del año que sea (con 2 o 3 excepciones anuales).</li>
 </ul>
 
 Y si después de darte esta chapa te interesa que te siga contando mi vida, [aquí](http://eepurl.com/hBHwlX) te dejo un sitio en el que poner tu correo.
